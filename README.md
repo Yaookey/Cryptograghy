@@ -3,12 +3,12 @@ The study route of Cryptograghy
 
 
 现代密码学主要包含以下几个方面：
-|  加密类型   |                  代表                |
-|    ----    |                  ----                |
-|  对称加密（Symmetric Cryptography）| eg. DES，AES，RC4 ...|
-|  非对称加密（Asymmetric Cryptography）| eg. RSA，ElGamal ...|
-|  哈希函数（Hash Function）| eg. MD5，SHA-1，SHA-512 ...|
-|  数字签名（Digital Signature）| eg. RSA ，ElGamal ，DSA ...|
+|              加密类型                 |                  代表                |
+|                ----                  |                  ----                |
+|  对称加密（Symmetric Cryptography）   |       DES，AES，RC4 ...              |
+|  非对称加密（Asymmetric Cryptography）|       RSA，ElGamal ...               |
+|  哈希函数（Hash Function）            |       MD5，SHA-1，SHA-512 ...        |
+|  数字签名（Digital Signature）        |       RSA ，ElGamal ，DSA ...        |
 
 
 对称加密体制主要分为两种方式：
