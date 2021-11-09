@@ -20,12 +20,12 @@ The study route of Cryptograghy
 
 
 
-密码设计者的根本目标是保障信息及信息系统的：
+> 密码设计者的根本目标是保障信息及信息系统的：
 * 机密性（Confidentiality）
 * 完整性（Integrity）
 * 可用性（Availability）
 * 认证性（Authentication）
-* 不可否认性（Non-repudiation）。
+* 不可否认性（Non-repudiation）。  
 其中，前三者被称为信息安全的 CIA 三要素。
 
 
