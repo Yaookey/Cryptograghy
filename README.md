@@ -12,18 +12,27 @@ The study route of Cryptograghy
 |  数字签名（Digital Signature）        |       RSA ，ElGamal ，DSA ...        |
 
 
+
 **对称加密体制分类方式**
 
---分组密码（Block Cipher），又称为块密码。  
---序列密码（Stream Cipher），又称为流密码。
+> 分组密码（Block Cipher），又称为块密码。  
+> 序列密码（Stream Cipher），又称为流密码。
+
 
 
 密码设计者的根本目标是保障信息及信息系统的：
-机密性（Confidentiality），完整性（Integrity），可用性（Availability），认证性（Authentication），不可否认性（Non-repudiation）。
+* 机密性（Confidentiality）
+* 完整性（Integrity）
+* 可用性（Availability）
+* 认证性（Authentication）
+* 不可否认性（Non-repudiation）。
 其中，前三者被称为信息安全的 CIA 三要素。
+
 
 而对于密码破解者来说，一般是要想办法识别出密码算法，然后进行暴力破解，或者利用密码体制的漏洞进行破解。
 当然，也有可能通过构造虚假的哈希值或者数字签名来绕过相应的检测。
+
+
 
 **攻击类型分类**
 一般来说，我们都会假设攻击者已知待破解的密码体制，而攻击类型通常分为以下四种：
